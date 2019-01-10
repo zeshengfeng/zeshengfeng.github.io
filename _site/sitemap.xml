@@ -4,27 +4,35 @@
     
     
     <url>
-        <loc>http://example.com/blog/post6/</loc>
+        <loc>https://taylantatli.github.io/Moon/moon-theme/</loc>
     </url>
     
     <url>
-        <loc>http://example.com/blog/post5/</loc>
+        <loc>https://taylantatli.github.io/Moon/markdown-syntax/</loc>
     </url>
     
     <url>
-        <loc>http://example.com/blog/post4/</loc>
+        <loc>https://taylantatli.github.io/Moon/video-post/</loc>
     </url>
     
     <url>
-        <loc>http://example.com/blog/post3/</loc>
+        <loc>https://taylantatli.github.io/Moon/mathjax-example/</loc>
     </url>
     
     <url>
-        <loc>http://example.com/blog/post2/</loc>
+        <loc>https://taylantatli.github.io/Moon/code-highlighting-post/</loc>
     </url>
     
     <url>
-        <loc>http://example.com/blog/post1/</loc>
+        <loc>https://taylantatli.github.io/Moon/sample-post-images/</loc>
+    </url>
+    
+    <url>
+        <loc>https://taylantatli.github.io/Moon/readability-feature-post/</loc>
+    </url>
+    
+    <url>
+        <loc>https://taylantatli.github.io/Moon/readability-post/</loc>
     </url>
     
 </urlset>
